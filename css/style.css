@@ -1,0 +1,17 @@
+#logo{
+
+height: 80px;
+margin-left: 0%;
+left: 50%;
+}
+header p{
+  font-family: sans-serif;
+display: inline;
+}
+header{
+  background-color: red;
+
+}
+header *{
+  padding: 2px;
+}
